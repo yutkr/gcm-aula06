@@ -7,3 +7,5 @@ Ferramentas de Controle de Versão:
 -GitHub
 -bazaar
 -visual studio
+-perforce
+-Clear Case
