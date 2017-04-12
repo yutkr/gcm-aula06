@@ -5,3 +5,5 @@ Ferramentas de Controle de Versão:
 -RCV
 -CVS
 -GitHub
+-bazaar
+-visual studio
