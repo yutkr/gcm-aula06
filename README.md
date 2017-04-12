@@ -6,3 +6,4 @@ Ferramentas de Controle de Versão:
 -CVS
 -GitHub
 -perforce
+-Clear Case
